@@ -1,0 +1,1 @@
+An analog calculator project using Arduino Mega and WiFi module. Supports arithmetic operations (addition, subtraction, multiplication, division) and follows BODMAS for complex expressions. Enables remote operation and data exchange via WiFi.
